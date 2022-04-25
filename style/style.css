@@ -1,0 +1,232 @@
+.borders{
+    margin: 0 200px;
+}
+.navigation{
+    display: flex;
+    padding: 10px 0;
+}
+.navigation a{
+    text-decoration: none;
+    color: #292929;
+}
+.nav{
+    display: flex;
+}
+.nav p{
+    padding-right: 50px;
+}
+.sign-in {
+    padding-left: 100px;
+    padding-right: 25px;
+}
+.logo img{
+    padding: 10px 140px 10px 0;
+}
+button{
+    background-color: #01996D;
+    border-radius: 5px;
+    border: 0;
+    color: white;
+    padding: 13px 50px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgba(1, 153, 109, 0.2);
+    color: black;
+    font-weight: bold;
+}
+.button{
+    padding-top: 7px;
+}
+.image{
+    background-image: url(..//image/1.png);
+    background-repeat: no-repeat;
+    height: 700px;
+    background-size: cover;
+}
+.section{
+    display: flex;
+}
+.motivation-text{
+    color: #01996D;
+    font-size: 49px;
+    font-weight: bold;
+    font-family: Georgia;
+}
+.section1{
+    padding-top: 125px;
+}
+.section1 div{
+    width: 30%;
+}
+.section2{
+    display: flex;
+    height: 150px;
+    padding: 70px 0;
+
+}
+.section2 div{
+    width: 50%;
+    padding: 0 106px;
+
+}
+.section2 .classic-text1{
+    padding-top: 20px;
+}
+.title-text{
+    font-family: Georgia;
+    color: #01996D;
+    font-weight: bold;
+    font-size: 30px;
+}
+.section3{
+    display: flex;
+    padding: 0 30px;
+    justify-content: space-between;
+}
+.numbers{
+    color: rgba(1, 153, 109, 0.2);
+    font-family: Georgia;
+    font-size: 100px;
+    position: absolute;
+    top: 950px;
+}
+.number2{
+    color: rgba(1, 153, 109, 0.2);
+    font-family: Georgia;
+    font-size: 100px;
+    position: absolute;
+    top: 1090px;
+}
+.section3{
+    padding: 30px 0;
+}
+.section3 div{
+    width: 30%;
+}
+.section3 img{
+    width: 300px;
+    height: 400px;
+}
+.section3-part2{
+    padding-top: 140px;
+}
+.section3-title{
+    font-family: Georgia;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+.green-background{
+    background-color: #245852;
+}
+.section4{
+    display: flex;
+    padding: 70px 0;
+    justify-content: space-between;
+}
+.section4 p{
+    color: white;
+}
+.section4 img{
+    width: 600px;
+    height: 350px;
+    padding-left: 75px;
+}
+.section4-title{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Georgia;
+    padding-top: 50px;
+}
+.sec4{
+    width: 35%;
+    padding-right: 77px;
+}
+.video{
+    width: 65%;
+}
+.section5{
+    display: flex;
+    padding: 100px 0;
+    justify-content: space-between;
+}
+.photo{
+    padding-left: 60px;
+}
+.photo-background{
+    background: rgba(1, 153, 109, 0.2);
+    border-radius: 15px;
+    width: 400px;
+    height: 400px;
+}
+.photo-background img{
+    width: 300px;
+    padding-left: 10%;
+}
+.section5-description{
+    padding-left: 60px;
+}
+.section5-description p{
+    margin-top: 0;
+}
+.card{
+    background-color:white;
+    border-radius: 8px;
+    width: 200px;
+    height: 240px;
+    position: absolute;
+    top: 2600px;
+}
+.customized{
+    text-align: center;
+}
+.circle{
+    background: rgba(1, 153, 109, 0.2);
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    margin: 0 36%;
+}
+.card-name{
+    text-align: center;
+    font-size: 10px;
+}
+.card-title{
+    font-family: Georgia;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+}
+.card li{
+    font-size: 10px;
+    padding-top: 5%;
+}
+.card a{
+    text-decoration: none;
+}
+.bgc-beige{
+    background-color: #E5E5E5;
+}
+.section6{
+    background-color:#245852;
+    padding: 60px 0;
+    display: flex;
+    justify-content: space-around;
+}
+.section6 p{
+    color: white;
+}
+.section6 a{
+    text-decoration: none;
+
+}
+.logo-end{
+    font-weight: bold;
+    font-size: 23px;
+    margin-top: 13px;
+}
+.classic-text1::first-line{
+    color: #01996D;
+}
